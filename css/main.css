@@ -95,3 +95,6 @@
     color: darkgreen;
     text-decoration: underline;
   }
+.smaller-image {
+  width: 200px;
+}
